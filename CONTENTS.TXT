@@ -1,0 +1,22 @@
+     Contents Of AZR_BUMP.ZIP
+
+     Ben Houston / PLaSH of AzurE
+     E-Mail: bhouston@geocities.com
+
+     Friday, August 30, 1996 (Ottawa Release)
+     Friday, November 22, 1996 (Internet Release)
+
+
+AZR_BUMP.TXT        explaination of examples and sources
+CONTENTS.TXT        a list of the files in this archive
+
+SLOWBUMP.CPP        source of a bump-mapping algorithm
+SLOWBUMP.EXE        the executable created from SLOWBUMP.CPP
+
+FASTBUMP.CPP        source of a bump-mapping algorithm
+FASTBUMP.EXE        the executable created from FASTBUMP.CPP
+
+BESTBUMP.CPP        source of a bump-mapping algorithm
+BESTBUMP.EXE        the executable created from BESTBUMP.CPP
+
+BUMPMAP.DAT         a common data file used by all executables
